@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/adi/Dev/ToDoList/build",
+  "command": "/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/adi/Dev/ToDoList/include -isystem /usr/local/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/local/include/wx-3.2  -pthread -std=gnu++17 -o CMakeFiles/to-do-list.dir/src/App.cpp.o -c /home/adi/Dev/ToDoList/src/App.cpp",
+  "file": "/home/adi/Dev/ToDoList/src/App.cpp",
+  "output": "CMakeFiles/to-do-list.dir/src/App.cpp.o"
+},
+{
+  "directory": "/home/adi/Dev/ToDoList/build",
+  "command": "/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/adi/Dev/ToDoList/include -isystem /usr/local/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/local/include/wx-3.2  -pthread -std=gnu++17 -o CMakeFiles/to-do-list.dir/src/MainFrame.cpp.o -c /home/adi/Dev/ToDoList/src/MainFrame.cpp",
+  "file": "/home/adi/Dev/ToDoList/src/MainFrame.cpp",
+  "output": "CMakeFiles/to-do-list.dir/src/MainFrame.cpp.o"
+},
+{
+  "directory": "/home/adi/Dev/ToDoList/build",
+  "command": "/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/adi/Dev/ToDoList/include -isystem /usr/local/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/local/include/wx-3.2  -pthread -std=gnu++17 -o CMakeFiles/to-do-list.dir/src/Task.cpp.o -c /home/adi/Dev/ToDoList/src/Task.cpp",
+  "file": "/home/adi/Dev/ToDoList/src/Task.cpp",
+  "output": "CMakeFiles/to-do-list.dir/src/Task.cpp.o"
+}
+]

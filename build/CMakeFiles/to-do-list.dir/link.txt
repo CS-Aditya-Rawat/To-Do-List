@@ -1,0 +1,1 @@
+/bin/c++  -pthread "CMakeFiles/to-do-list.dir/src/App.cpp.o" "CMakeFiles/to-do-list.dir/src/MainFrame.cpp.o" "CMakeFiles/to-do-list.dir/src/Task.cpp.o" -o to-do-list   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -L/usr/local/lib -pthread -lwx_gtk3u_gl-3.2 -lwx_gtk3u_core-3.2 -lwx_baseu-3.2 -lwx_baseu_net-3.2 

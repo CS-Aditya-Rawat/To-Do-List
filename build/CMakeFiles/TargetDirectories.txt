@@ -1,0 +1,3 @@
+/home/adi/Dev/ToDoList/build/CMakeFiles/to-do-list.dir
+/home/adi/Dev/ToDoList/build/CMakeFiles/edit_cache.dir
+/home/adi/Dev/ToDoList/build/CMakeFiles/rebuild_cache.dir
